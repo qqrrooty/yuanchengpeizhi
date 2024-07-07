@@ -1,4 +1,4 @@
 payload:
-- DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
-- DOMAIN-SUFFIX,linetv.tw
-- DOMAIN-SUFFIX,profile.line-scdn.net
+  - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+  - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN-SUFFIX,profile.line-scdn.net
