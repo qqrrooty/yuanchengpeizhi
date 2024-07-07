@@ -1,5 +1,4 @@
 Direct, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
-China-Websites,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
 Direct, https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 
 🛑 广告拦截, https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
@@ -31,7 +30,9 @@ Direct, https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.lis
 
 🎵 Tiktok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
 
-China-Websites,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+🎮 CNGAME,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
+🎮 CNGAME,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+
 🎮 GAME,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
 
 📟 Twitter,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
