@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+  - DOMAIN,download.epicgames.com
+  - DOMAIN,download2.epicgames.com
+  - DOMAIN,download3.epicgames.com
+  - DOMAIN,download4.epicgames.com
+  - DOMAIN,epicgames-download1.akamaized.net
+  - DOMAIN,fastly-download.epicgames.com
+  - DOMAIN-SUFFIX,battlebreakers.com
+  - DOMAIN-SUFFIX,eac-cdn.com
+  - DOMAIN-SUFFIX,easy.ac
+  - DOMAIN-SUFFIX,easyanticheat.net
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,fortnite.com
+  - DOMAIN-SUFFIX,helpshift.com
+  - DOMAIN-SUFFIX,paragon.com
+  - DOMAIN-SUFFIX,playparagon.com
+  - DOMAIN-SUFFIX,roborecall.com
+  - DOMAIN-SUFFIX,shadowcomplex.com
+  - DOMAIN-SUFFIX,spyjinx.com
+  - DOMAIN-SUFFIX,unrealengine.com
+  - DOMAIN-SUFFIX,unrealtournament.com
+  
