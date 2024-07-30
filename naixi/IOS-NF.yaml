@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,ios.ngp.prod.cloud.netflix.com
+  - DOMAIN,appboot.netflix.com
+  - DOMAIN,ios.prod.cloud.netflix.com
