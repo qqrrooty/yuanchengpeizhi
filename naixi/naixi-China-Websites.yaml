@@ -156,8 +156,6 @@ payload:
   - DOMAIN-SUFFIX,mubu.com
   - DOMAIN-SUFFIX,myzaker.com
   - DOMAIN-SUFFIX,nvidia.com
-  - DOMAIN-SUFFIX,paypal.com
-  - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,qyer.com
   - DOMAIN-SUFFIX,qyerstatic.com
   - DOMAIN-SUFFIX,ronghub.com
@@ -179,7 +177,6 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN-SUFFIX,local
-  - DOMAIN,mtalk.google.com
   - IP-CIDR,192.168.0.0/16
   - IP-CIDR,10.0.0.0/8
   - IP-CIDR,172.16.0.0/12
