@@ -9,7 +9,6 @@ payload:
   - DOMAIN,ds-vod-abematv.akamaized.net
   - DOMAIN,linear-abematv.akamaized.net
   - DOMAIN-SUFFIX,primevideo.com
-  - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
@@ -82,8 +81,6 @@ payload:
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,dfp6rglgjqszk.cloudfront.net
   - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN,youtubei.googleapis.com
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
   - DOMAIN-SUFFIX,kkbox.com
