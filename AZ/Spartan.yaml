@@ -1,1 +1,7 @@
-
+payload:
+  - DOMAIN-SUFFIX,spartanhost.org
+  - DOMAIN-SUFFIX,spartanhost.org
+  - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-KEYWORD,spartanhost
+  - DOMAIN-KEYWORD,spartanhost
