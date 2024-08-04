@@ -1,2 +1,3 @@
-- DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-- DOMAIN-SUFFIX,googleapis.cn
+payload:
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,googleapis.cn
