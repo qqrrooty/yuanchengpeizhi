@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,unrealtournament.com
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,catmajsoul.com
+  - DOMAIN-SUFFIX,maj-soul.com
   - IP-CIDR,45.121.184.0/24
   - IP-CIDR,103.10.124.0/23
   - IP-CIDR,103.28.54.0/24
