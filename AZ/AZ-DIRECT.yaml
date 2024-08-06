@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,content.steampowered.com
   - DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net
   - DOMAIN-SUFFIX,akamai.steamstatic.com
+  - DOMAIN-SUFFIX,cloudflare.steamstatic.com
   - DOMAIN-SUFFIX,cs.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,edgecast.steamstatic.com
