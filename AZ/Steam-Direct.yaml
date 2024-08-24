@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,akamai.steamstatic.com
+  - DOMAIN-SUFFIX,cloudflare.steamstatic.com
