@@ -5,3 +5,6 @@ payload:
   - DOMAIN-SUFFIX,facmata.net
   - DOMAIN-KEYWORD,magpie
   - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,9521732.xyz
+  - DOMAIN-SUFFIX,029902.xyz
+  - IP-CIDR,142.171.30.126/32
