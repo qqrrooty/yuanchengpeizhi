@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,18-comicstellar.me
   - DOMAIN-SUFFIX,destinyitemmanager.com
   - DOMAIN-SUFFIX,termius.com
+  - DOMAIN-KEYWORD,jmapiproxy
+  - DOMAIN-SUFFIX,cdnxxx-proxy.vip
+  - DOMAIN-KEYWORD,jmfreedomproxy
