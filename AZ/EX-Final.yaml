@@ -13,5 +13,5 @@ payload:
   - DOMAIN-SUFFIX,destinyitemmanager.com
   - DOMAIN-SUFFIX,termius.com
   - DOMAIN-KEYWORD,jmapiproxy
-  - DOMAIN-SUFFIX,cdnxxx-proxy.vip
+  - DOMAIN-KEYWORD,cdnxxx-proxy
   - DOMAIN-KEYWORD,jmfreedomproxy
