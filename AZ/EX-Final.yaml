@@ -16,3 +16,4 @@ payload:
   - DOMAIN-KEYWORD,cdnxxx-proxy
   - DOMAIN-KEYWORD,jmfreedomproxy
   - DOMAIN-SUFFIX,copy-manga.com
+  - DOMAIN-SUFFIX,jsdelivr.net
