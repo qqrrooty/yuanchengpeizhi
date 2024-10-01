@@ -10,3 +10,5 @@ payload:
   - IP-CIDR,142.171.30.126/32
   - DOMAIN-SUFFIX,20120714.xyz
   - DOMAIN-SUFFIX,nijigem.by
+  - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,emby.wtf
