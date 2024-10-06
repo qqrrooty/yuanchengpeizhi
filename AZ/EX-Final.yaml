@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,recombee.com
+  - DOMAIN-KEYWORD,speedtest
