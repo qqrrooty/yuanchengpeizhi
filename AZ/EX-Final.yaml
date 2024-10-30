@@ -17,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,recombee.com
-  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,baozimh
   - DOMAIN-SUFFIX,czmanga.com
   - DOMAIN-KEYWORD,copymanga
