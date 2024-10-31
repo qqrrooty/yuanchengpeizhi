@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,akamai.steamstatic.com
   - DOMAIN-SUFFIX,cloudflare.steamstatic.com
   - DOMAIN-SUFFIX,download.nvidia.com
+  - DOMAIN-SUFFIX,epicgamescdn.com
