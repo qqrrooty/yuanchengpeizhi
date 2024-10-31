@@ -27,3 +27,6 @@ payload:
   - DOMAIN-SUFFIX,jmapinodeudzn.net
   - DOMAIN-SUFFIX,cdnblackmyth.vip
   - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,speed.dler.io
