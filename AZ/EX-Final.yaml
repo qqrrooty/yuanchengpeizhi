@@ -30,3 +30,6 @@ payload:
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,speed.dler.io
+  - DOMAIN-SUFFIX,brother.co.jp
+  - DOMAIN-SUFFIX,go.brother
+  - DOMAIN-SUFFIX,brother.com
