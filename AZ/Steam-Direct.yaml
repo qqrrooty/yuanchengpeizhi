@@ -3,6 +3,3 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.steamstatic.com
   - DOMAIN-SUFFIX,download.nvidia.com
   - DOMAIN-SUFFIX,epicgamescdn.com
-  - DOMAIN-SUFFIX,update.brother.co.jp
-  - DOMAIN-SUFFIX,go.brother
-  - DOMAIN-SUFFIX,brother.com
