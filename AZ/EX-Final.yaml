@@ -9,6 +9,9 @@ payload:
   - DOMAIN-SUFFIX,18-comicblade.art
   - DOMAIN-SUFFIX,18-comicblade.xyz
   - DOMAIN-SUFFIX,18-comicstellar.me
+  - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,jmcomic
+  - DOMAIN-SUFFIX,jmc8763.xyz
   - DOMAIN-SUFFIX,destinyitemmanager.com
   - DOMAIN-SUFFIX,termius.com
   - DOMAIN-KEYWORD,jmapiproxy
