@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,brother.co.jp
   - DOMAIN-SUFFIX,go.brother
   - DOMAIN-SUFFIX,brother.com
+  - DOMAIN-KEYWORD,jcyapp
   - IP-CIDR,120.232.181.162/32
   - IP-CIDR,120.241.147.226/32
   - IP-CIDR,120.253.253.226/32
